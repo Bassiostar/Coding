@@ -27,7 +27,13 @@ ul>li{
 
 /*Sibling Selector*/
 h1+p{
-    background-color: #161b22;
+    <h1>Welcome to the world of Gaming</h1>
+    <ul>
+        <li >DLS 2025</li>
+        <li>Fifa 25</li>
+        <li>Brawlhalla</li>
+        <li>Marvel Snap</li>
+    </ul>
     padding: 10px;
     border-radius: 5px;
 }
